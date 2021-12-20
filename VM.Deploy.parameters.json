@@ -106,7 +106,7 @@
             "value": "azureuser"
         },
         "adminPassword": {
-            "value": null
+            "value": "!Barth3z1234567"
         },
         "patchMode": {
             "value": "AutomaticByOS"
